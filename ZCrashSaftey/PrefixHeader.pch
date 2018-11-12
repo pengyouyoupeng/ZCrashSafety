@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  ZCrashSaftey
+//
+//  Created by icharge on 2018/11/12.
+//  Copyright © 2018年 icharge. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import "ZCrashSafety.h"
+
+
+#endif /* PrefixHeader_pch */
